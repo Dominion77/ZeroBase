@@ -17,7 +17,7 @@ export const config = createConfig({
 
 
 export const USDC_CONTRACT = {
-  address: '0x036CbD53842c5426634e7929541eC2318f3dCF7e' as `0x${string}`,
+  address: '0x323988c410b7944842aFAc86332e9C7CA813aa2C' as `0x${string}`,
   abi: [
     {
       constant: true,
